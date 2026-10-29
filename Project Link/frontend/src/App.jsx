@@ -2,7 +2,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://campuscare-api-8wkl.onrender.com";
 
 // --------------------------------------------------
 // API HELPER
